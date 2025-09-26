@@ -1,6 +1,6 @@
 # Zenith
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/hughsio/zenith-app)
 
 > An elegant storage organization app that uses QR codes to instantly identify the contents of your bins.
 
@@ -96,4 +96,4 @@ Wrangler will handle the process of building the frontend assets, deploying the 
 
 Alternatively, you can deploy directly from your GitHub repository using the button below.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/hughsio/zenith-app)
